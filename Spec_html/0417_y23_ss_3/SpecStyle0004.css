@@ -1,0 +1,35 @@
+table{
+	width: 90% ;
+	border-collapse: separate ;
+	border-width: 2;
+	border-style: solid;
+	border-color: #808000;
+}
+td{
+	padding-top: 8px;
+	padding-left: 20px; 
+	padding-right: 20px;
+	padding-bottom: 6px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #808000;
+}
+h1, h2, h3, p{
+	color: #ffff00;
+	font-family: "Times New Roman", Times, serif;
+h1{
+	height: 48;
+	text-align: right;
+}
+h2{
+	height: 24;
+}
+h3{
+	height: 18;
+}
+.cyan{
+	color: #00ffff;
+}
+/*Agustina Cardozo UY027 0004*/
+
+
